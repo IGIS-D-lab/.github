@@ -3,6 +3,14 @@
 
 <div>
   <div align="center">
+  <img 
+  src="https://www.igisam.com/theme/igisWeb/img/logo_grey.png" 
+  alt="icon" 
+  width="150"
+  />
+  </div>
+
+  <div align="center">
     📆 2022.09.16 ~ Ongoing
   </div>
   
@@ -36,3 +44,4 @@
 | Python 3.x | https://github.com/IGIS-D-lab/.github/blob/main/rulebook/python.md |
 | Go |  |
 | Rust | |
+
