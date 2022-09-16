@@ -2,7 +2,7 @@
 name: "[NEW REQ] Feature request"
 about: Suggest an idea for this project
 title: ''
-labels: ''
+labels: documentation
 assignees: oncender, belbed1to9, wooleee, goonzardwork
 
 ---
