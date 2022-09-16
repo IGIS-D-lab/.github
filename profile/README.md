@@ -6,6 +6,8 @@
     📆 2022.09.16 ~ Ongoing
   </div>
   
+  <br/>
+  <br/>
   <div align="center">
     
 [![GitHub Open Issues](https://img.shields.io/github/issues-raw/IGIS-D-lab/.github?color=green)](https://github.com/IGIS-D-lab/.github/issues)
