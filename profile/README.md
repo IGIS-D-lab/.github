@@ -4,7 +4,7 @@
 <div>
   <div align="center">
   <img 
-  src="[https://www.igisam.com/theme/igisWeb/img/logo_grey.png](http://cdn.bizwatch.co.kr/news/photo/2019/03/20/27c358fced8bde642f0c1d3cd49b3032.jpg)" 
+  src="http://cdn.bizwatch.co.kr/news/photo/2019/03/20/27c358fced8bde642f0c1d3cd49b3032.jpg" 
   alt="icon" 
   width="150"
   />
