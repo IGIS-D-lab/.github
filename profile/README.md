@@ -22,8 +22,10 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## Coding Rulebook
+## Lab Rulebook
 
 | Language | Reference |
 |----------|-----------|
-| python | https://github.com/IGIS-D-lab/.github/blob/main/rulebook/python.md |
+| Python 3.x | https://github.com/IGIS-D-lab/.github/blob/main/rulebook/python.md |
+| Go |  |
+| Rust | |
