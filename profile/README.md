@@ -1,8 +1,8 @@
-## Welcome to IGIS-D-lab
+## Welcome to IGIS-D-lab Github
 
 
 
-📆 2022.07.31 ~ Ongoing
+📆 2022.09.16 ~ Ongoing
 
 
 [![GitHub Open Issues](https://img.shields.io/github/issues-raw/IGIS-D-lab/.github?color=green)](https://github.com/IGIS-D-lab/.github/issues)
