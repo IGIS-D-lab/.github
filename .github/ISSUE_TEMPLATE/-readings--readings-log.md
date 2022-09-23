@@ -1,5 +1,5 @@
 ---
-name: Readings Title(Author)
+name: [READINGS] Share New Readings
 about: Tell us briefly about readings
 title: Readings Title(Author)
 labels: project name(please add if no tag exists)
