@@ -2,7 +2,8 @@
 name: "[READINGS] Share New Readings"
 about: Tell us briefly about your readings
 title: "Readings Title(Author)"
-labels: 
+labels: readings
+projects: Readings
 assignees: oncender, belbed1to9, wooleee, goonzardwork
 
 ---
