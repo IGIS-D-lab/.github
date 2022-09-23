@@ -1,9 +1,9 @@
 ---
-name: [READINGS] Share New Readings
-about: Tell us briefly about readings
-title: Readings Title(Author)
-labels: project name(please add if no tag exists)
-assignees: wooleee
+name: "[READINGS] Share New Readings"
+about: Tell us briefly about your readings
+title: "Readings Title(Author)"
+labels: 
+assignees: oncender, belbed1to9, wooleee, goonzardwork
 
 ---
 
