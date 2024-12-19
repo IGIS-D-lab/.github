@@ -1,6 +1,6 @@
 ## Welcome to IGIS-D-lab Github
 
-[![GitHub Repositories](https://img.shields.io/badge/GitHub-Repositories-blue?logo=github)](https://github.com/orgs/IGIS-D-lab/repositories?q=visibility%3Aprivate+archived%3Afalse)
+[![GitHub Repositories](https://img.shields.io/badge/GitHub-Repositories-blue?logo=github)](https://github.com/orgs/IGIS-D-lab/repositories?q=visibility%3Aprivate+archived%3Afalse+sort%3Aname-asc)
 
     
 [![GitHub Open Issues](https://img.shields.io/github/issues-raw/IGIS-D-lab/.github?color=green)](https://github.com/IGIS-D-lab/.github/issues)
