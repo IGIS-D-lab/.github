@@ -1,22 +1,7 @@
 ## Welcome to IGIS-D-lab Github
 
+[![GitHub Repositories](https://img.shields.io/badge/GitHub-Repositories-blue?logo=github)](https://github.com/orgs/IGIS-D-lab/repositories?q=visibility%3Aprivate+archived%3Afalse)
 
-<div>
-  <div align="center">
-  <img 
-  src="http://cdn.bizwatch.co.kr/news/photo/2019/03/20/27c358fced8bde642f0c1d3cd49b3032.jpg" 
-  alt="icon" 
-  width="250"
-  />
-  </div>
-
-  <div align="center">
-    📆 2022.09.16 ~ Ongoing
-  </div>
-  
-  <br/>
-  <br/>
-  <div align="center">
     
 [![GitHub Open Issues](https://img.shields.io/github/issues-raw/IGIS-D-lab/.github?color=green)](https://github.com/IGIS-D-lab/.github/issues)
 [![GitHub Closed Issues](https://img.shields.io/github/issues-closed-raw/IGIS-D-lab/.github?color=red)](https://github.com/IGIS-D-lab/.github/issues?q=is%3Aissue+is%3Aclosed)
